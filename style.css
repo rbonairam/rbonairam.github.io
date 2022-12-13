@@ -124,7 +124,7 @@ section{
     background: black;
     color: #eee;
     padding: 1rem;
-    border-radius: 10px;
+    border-radius: 10px 10px 0 0;
 }
 
     /* About section styles */
